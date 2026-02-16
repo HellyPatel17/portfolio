@@ -1,0 +1,7 @@
+{
+  "name": "Helly Patel | AI-Powered Portfolio",
+  "description": "A high-performance professional portfolio featuring an AI Resume Assistant powered by Gemini 3 Flash.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
